@@ -2,14 +2,7 @@
 <AndroidAttestation>
     <NumberOfKeyboxes>1</NumberOfKeyboxes>
     <Keybox DeviceID="HihiKeybox4 (@realknoname)">
-        <Key algorithm="ecdsa">
-            <PrivateKey format="pem">
-                -----BEGIN EC PRIVATE KEY-----
-                MHcCAQEEILvJzj0USDEfCnDITQGpiaqbbd5NDCdmOZru0swhmUiaoAoGCCqGSM49
-                AwEHoUQDQgAE6GVa6kGwDbA8y07izjR6yOpZpFz8SpGtDlKjBn20saGSe+vSswzt
-                sEGtVVQnDNH5wSIcnEAcj5CR7xXuppHFwQ==
-                -----END EC PRIVATE KEY-----
-            </PrivateKey>
+        
             <CertificateChain>
                 <NumberOfCertificates>3</NumberOfCertificates>
                 <Certificate format="pem">
